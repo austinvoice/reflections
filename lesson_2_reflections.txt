@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initialize creates a tracking file and metadata about the directory. You can then make commits.
+
