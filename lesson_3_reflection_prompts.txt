@@ -1,8 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Remote repository allows easy sharing of files. Remote allows multiple distributed contributors. Remote allows oversight of a project
-    for open source or public projects.
+    Remote repository allows easy sharing of files. Remote allows multiple distributed contributors. 
+    Remote allows oversight of a projectfor open source or public projects.
+    Remote allows online or offline editing.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
